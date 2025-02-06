@@ -19,7 +19,7 @@ window.addEventListener("DOMContentLoaded", async function () {
       reputation,
       user_id,
     } = user;
-    const { gold, silver, bronze } = user.badge_counts;
+    const { blue, silver, bronze } = user.badge_counts;
 
     const profileLink = website_url || link;
 
