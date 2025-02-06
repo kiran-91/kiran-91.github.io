@@ -74,10 +74,10 @@ export const footer = [
      {
        label: "Resources",
        data: [
-         {
-           text: "Enable Dark/Light Mode",
-           func: "enableDarkMode()",
-         },
+           //{
+           //text: "Enable Dark/Light Mode",
+           //func: "enableDarkMode()",
+         //},
          {
            text: "Print this page",
            func: "window.print()",
