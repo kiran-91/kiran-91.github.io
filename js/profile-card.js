@@ -42,8 +42,8 @@ window.addEventListener("DOMContentLoaded", async function () {
                     <p style="font-size: 20px; font-weight: bold; color: #222;">${reputation}</p>
                 </div>
                 <div>
-                    <p style="font-size: 12px; color: #666; margin: 0;">GOLD</p>
-                    <p style="font-size: 20px; font-weight: bold; color: #222;">${gold}</p>
+                    <p style="font-size: 12px; color: #666; margin: 0;">BLUE</p>
+                    <p style="font-size: 20px; font-weight: bold; color: #222;">${blue}</p>
                 </div>
                                 <div>
                     <p style="font-size: 12px; color: #666; margin: 0;">SILVER</p>
